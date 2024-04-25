@@ -29,7 +29,9 @@ Estructura de trabajo
 
 |LÍDER                  |COMUNICÓLOGO  |INVESTIGADORA| TECNÓLOGO |
 |-----------------------|-------------------|-------------|-------|
-|Definir la visión y los objetivos del proyecto: Establecer metas claras y específicas para el  lanzamiento inicial.| 
+|Definir la visión y los objetivos del proyecto: Establecer metas claras y específicas para el  lanzamiento inicial.| Desarrollar la identidad de marca: Crear el nombre, logo y línea gráfica de la página.|Analizar el mercado objetivo: Investigar el mercado de adopción de mascotas y las necesidades de los usuarios potenciales. |Desarrollo del sitio web: Configurar el hosting, seleccionar y personalizar la plantilla o desarrollar el diseño desde cero.|
+
+
 
 
 
