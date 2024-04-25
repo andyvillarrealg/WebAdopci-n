@@ -36,7 +36,10 @@ Internet y Búsqueda de Información: Buscan información sobre cuidados, entren
 <img width="492" alt="Captura de Pantalla 2024-04-25 a la(s) 14 27 43" src="https://github.com/andyvillarrealg/WebAdopci-n/assets/159186356/2c3c92f8-67be-4b4c-a977-ff4d8a6e7781">
 
 
-Tabla comparativa de fortalezas, debilidades y links a proyectos o páginas similares con comentario de qué se toma como inspiración y/o qué se mejorará. 
+
+
+## Tabla comparativa de fortalezas, debilidades y links a proyectos o páginas similares con comentario de qué se toma como inspiración y/o qué se mejorará. 
+
 
 
 
