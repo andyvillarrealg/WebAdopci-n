@@ -13,14 +13,14 @@ Conectar: Servir como el principal enlace entre albergues de animales y personas
 
 ## *Público objetivo* 
 
-- *Características socio-demográficas*
+- **Características socio-demográficas**
 Edad: Entre 25 y 45 años.
 Situación Económica: Ingresos estables que les permitan cubrir gastos adicionales como los que implica tener una mascota. Esto puede incluir salarios medios a altos.
 Educación: Es probable que tengan un nivel educativo medio a alto, dado que la educación suele correlacionarse con mayores ingresos.
 Estado Civil: Pueden ser solteros, casados o en convivencia. Los que tienen familia pueden estar más inclinados a adoptar una mascota como compañía para sus hijos.
 Residencia: Vivienda adecuada para mantener mascotas, probablemente en áreas suburbanas o urbanas con acceso a parques y áreas de paseo.
 
-- *Consumo Mediático*
+- **Consumo Mediático**
 Redes Sociales: Utilizan activamente plataformas como Facebook, Instagram y Twitter donde pueden seguir cuentas relacionadas con el cuidado de mascotas, adopción y salud animal.
 Internet y Búsqueda de Información: Buscan información sobre cuidados, entrenamiento y salud de mascotas en sitios web especializados, blogs y foros.
 
@@ -29,7 +29,7 @@ Internet y Búsqueda de Información: Buscan información sobre cuidados, entren
 
 |LÍDER                  |COMUNICÓLOGO  |INVESTIGADORA| TECNÓLOGO |
 |-----------------------|-------------------|-------------|-------|
-|**Definir la visión y los objetivos del proyecto:** Establecer metas claras y específicas para el  lanzamiento inicial.|**Desarrollar la identidad de marca:** Crear el nombre, logo y línea gráfica de la página.|**Analizar el mercado objetivo:** Investigar el mercado de adopción de mascotas y las necesidades de los usuarios potenciales. |**Desarrollo del sitio web:** Configurar el hosting, seleccionar y personalizar la plantilla o desarrollar el diseño desde cero.|
+|**Definir la visión y los objetivos del proyecto:** Establecer metas claras y específicas para el  lanzamiento inicial. **Github:** https://github.com/ximeglz|**Desarrollar la identidad de marca:** Crear el nombre, logo y línea gráfica de la página.**Github:**|**Analizar el mercado objetivo:** Investigar el mercado de adopción de mascotas y las necesidades de los usuarios potenciales. **Github:**|**Desarrollo del sitio web:** Configurar el hosting, seleccionar y personalizar la plantilla o desarrollar el diseño desde cero.**Github:**|
 
 
 
