@@ -28,6 +28,7 @@ Internet y Búsqueda de Información: Buscan información sobre cuidados, entren
 Estructura de trabajo 
 
 |LÍDER                  |COMUNICÓLOGO  |INVESTIGADORA| TECNÓLOGO |
+|-----------------------|-------------------|-------------|-------|
 |Definir la visión y los| 
 |objetivos del proyecto:| 
 |Establecer metas claras| 
