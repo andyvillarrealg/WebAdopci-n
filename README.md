@@ -29,11 +29,7 @@ Estructura de trabajo
 
 |LÍDER                  |COMUNICÓLOGO  |INVESTIGADORA| TECNÓLOGO |
 |-----------------------|-------------------|-------------|-------|
-|Definir la visión y los| 
-|objetivos del proyecto:| 
-|Establecer metas claras| 
-|y específicas para el  |
-|lanzamiento inicial.   | 
+|Definir la visión y los objetivos del proyecto: Establecer metas claras y específicas para el  lanzamiento inicial.| 
 
 
 
