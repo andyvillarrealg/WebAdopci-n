@@ -29,7 +29,7 @@ Internet y Búsqueda de Información: Buscan información sobre cuidados, entren
 
 |LÍDER                  |COMUNICÓLOGO  |INVESTIGADORA| TECNÓLOGO |
 |-----------------------|-------------------|-------------|-------|
-|Definir la visión y los objetivos del proyecto: Establecer metas claras y específicas para el  lanzamiento inicial.| Desarrollar la identidad de marca: Crear el nombre, logo y línea gráfica de la página.|Analizar el mercado objetivo: Investigar el mercado de adopción de mascotas y las necesidades de los usuarios potenciales. |Desarrollo del sitio web: Configurar el hosting, seleccionar y personalizar la plantilla o desarrollar el diseño desde cero.|
+|**Definir la visión y los objetivos del proyecto:** Establecer metas claras y específicas para el  lanzamiento inicial.|**Desarrollar la identidad de marca:** Crear el nombre, logo y línea gráfica de la página.|**Analizar el mercado objetivo:** Investigar el mercado de adopción de mascotas y las necesidades de los usuarios potenciales. |**Desarrollo del sitio web:** Configurar el hosting, seleccionar y personalizar la plantilla o desarrollar el diseño desde cero.|
 
 
 
@@ -45,7 +45,7 @@ Internet y Búsqueda de Información: Buscan información sobre cuidados, entren
 
 | Fortalezas | Debilidades | Proyectos similares |
 |------------|-------------|---------------------|
-|**·Reducción de la Eutanasia:** Al proporcionar una alternativa a la eutanasia para los perros sin hogar, los proyectos de adopción contribuyen significativamente a reducir el número de animales sacrificados. **·Concientización Comunitaria:** Los proyectos de adopción aumentan la conciencia sobre temas importantes como el trato humano a los animales, la sobrepoblación de mascotas, y la importancia de la esterilización y la castración. | **·Alta Tasa de Devolución:** Los perros a veces son devueltos después de la adopción debido a expectativas poco realistas, problemas de comportamiento no reconocidos o cambios en las circunstancias del adoptante. **·Dificultades en la Gestión:** Una gestión ineficaz puede llevar a problemas operativos, falta de seguimiento de los casos de adopción, y dificultades en la coordinación entre voluntarios y personal. |https://buscafuska.com/?gad_source=1&gclid=Cj0KCQjw_qexBhCoARIsAFgBlevvD8kPOvXcHmSP-r4b0T7Yd1mWSq8NbP_mGhnVM_YwEf27gmPy6-saAvf9EALw_wcB https://www.casaheim.org/ https://www.pedigreeadoptame.mx/ https://www.petco.com.mx/adopcion |
+|**·Reducción de la Eutanasia:** Al proporcionar una alternativa a la eutanasia para los perros sin hogar, los proyectos de adopción contribuyen significativamente a reducir el número de animales sacrificados. **·Concientización Comunitaria:** Los proyectos de adopción aumentan la conciencia sobre temas importantes como el trato humano a los animales, la sobrepoblación de mascotas, y la importancia de la esterilización y la castración. | **·Alta Tasa de Devolución:** Los perros a veces son devueltos después de la adopción debido a expectativas poco realistas, problemas de comportamiento no reconocidos o cambios en las circunstancias del adoptante. **·Dificultades en la Gestión:** Una gestión ineficaz puede llevar a problemas operativos, falta de seguimiento de los casos de adopción, y dificultades en la coordinación entre voluntarios y personal. |- https://buscafuska.com/?gad_source=1&gclid=Cj0KCQjw_qexBhCoARIsAFgBlevvD8kPOvXcHmSP-r4b0T7Yd1mWSq8NbP_mGhnVM_YwEf27gmPy6-saAvf9EALw_wcB - https://www.casaheim.org/ - https://www.pedigreeadoptame.mx/ - https://www.petco.com.mx/adopcion |
 
 
 
