@@ -1,11 +1,11 @@
 # Encuentratuhuellita.com
-<img width="415" alt="Captura de Pantalla 2024-04-25 a la(s) 14 42 32" src="https://github.com/andyvillarrealg/WebAdopci-n/assets/159186356/7cd10c8a-7c07-4615-977d-bcb8d473a703">
+<img width="200" alt="Captura de Pantalla 2024-04-25 a la(s) 14 42 32" src="https://github.com/andyvillarrealg/WebAdopci-n/assets/159186356/7cd10c8a-7c07-4615-977d-bcb8d473a703">
 
 Nuestra misión en EncuentraTuHuellita.com es facilitar la adopción de perros y gatos callejeros, conectando albergues y futuros adoptantes de manera eficiente y compasiva. Nos esforzamos por mirar más allá de la raza y el origen, enfocándonos en la compatibilidad y el amor potencial entre humanos y mascotas. Buscamos transformar la vida de todos los animales necesitados ofreciéndoles un hogar amoroso y seguro.
 
 
 ## *Objetivos*
-Conectar: Servir como el principal enlace entre albergues de animales y personas interesadas en adoptar, proporcionando una plataforma fácil de usar que simplifique el proceso de búsqueda y adopción.
+- **Conectar:** Servir como el principal enlace entre albergues de animales y personas interesadas en adoptar, proporcionando una plataforma fácil de usar que simplifique el proceso de búsqueda y adopción.
 - **Educar:** Proporcionar recursos educativos sobre el cuidado responsable de mascotas y la importancia de la adopción, ayudando a crear una comunidad bien informada y comprometida.
 - **Apoyar:** Ofrecer un sistema de apoyo post-adopción para asegurar una transición suave para las mascotas y sus nuevos dueños, incluyendo consejos sobre salud, entrenamiento y socialización.
 - **Crear comunidad:** Desarrollar una red social para que los adoptantes compartan experiencias, consejos e historias de éxito, fomentando un sentido de comunidad y pertenencia entre aquellos que han encontrado su "huellita".
