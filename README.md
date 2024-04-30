@@ -31,22 +31,24 @@ Internet y Búsqueda de Información: Buscan información sobre cuidados, entren
 |-----------------------|-------------------|-------------|-------|
 |**Definir la visión y los objetivos del proyecto:** Establecer metas claras y específicas para el  lanzamiento inicial. **Github:** https://github.com/ximeglz|**Desarrollar la identidad de marca:** Crear el nombre, logo y línea gráfica de la página.**Github:** https://github.com/pabsg22|**Analizar el mercado objetivo:** Investigar el mercado de adopción de mascotas y las necesidades de los usuarios potenciales. **Github:** https://github.com/andyvillarrealg|**Desarrollo del sitio web:** Configurar el hosting, seleccionar y personalizar la plantilla o desarrollar el diseño desde cero.**Github:**|
 
-
+###Concepto Visual
 
 <img width="492" alt="Captura de Pantalla 2024-04-25 a la(s) 14 27 43" src="https://github.com/andyvillarrealg/WebAdopci-n/assets/159186356/2c3c92f8-67be-4b4c-a977-ff4d8a6e7781">
 
 
 
 
-## Tabla comparativa de fortalezas, debilidades y links a proyectos o páginas similares con comentario de qué se toma como inspiración y/o qué se mejorará. 
+### Tabla comparativa de fortalezas, debilidades y links a proyectos o páginas similares con comentario de qué se toma como inspiración y/o qué se mejorará. 
 
 
 
 
 | Fortalezas | Debilidades | Proyectos similares |
 |------------|-------------|---------------------|
-|**·Reducción de la Eutanasia:** Al proporcionar una alternativa a la eutanasia para los perros sin hogar, los proyectos de adopción contribuyen significativamente a reducir el número de animales sacrificados. **·Concientización Comunitaria:** Los proyectos de adopción aumentan la conciencia sobre temas importantes como el trato humano a los animales, la sobrepoblación de mascotas, y la importancia de la esterilización y la castración. | **·Alta Tasa de Devolución:** Los perros a veces son devueltos después de la adopción debido a expectativas poco realistas, problemas de comportamiento no reconocidos o cambios en las circunstancias del adoptante. **·Dificultades en la Gestión:** Una gestión ineficaz puede llevar a problemas operativos, falta de seguimiento de los casos de adopción, y dificultades en la coordinación entre voluntarios y personal. |- https://buscafuska.com/?gad_source=1&gclid=Cj0KCQjw_qexBhCoARIsAFgBlevvD8kPOvXcHmSP-r4b0T7Yd1mWSq8NbP_mGhnVM_YwEf27gmPy6-saAvf9EALw_wcB - https://www.casaheim.org/ - https://www.pedigreeadoptame.mx/ - https://www.petco.com.mx/adopcion **Inspiración:** Encontramos la inspiración de estas paginas por el espíritu de adopción que promueven. Tienen una estética divertida y tierna la cual intentamos implementar en nuestra página. |
+|**·Reducción de la Eutanasia:** Al proporcionar una alternativa a la eutanasia para los perros sin hogar, los proyectos de adopción contribuyen significativamente a reducir el número de animales sacrificados. **·Concientización Comunitaria:** Los proyectos de adopción aumentan la conciencia sobre temas importantes como el trato humano a los animales, la sobrepoblación de mascotas, y la importancia de la esterilización y la castración. **·Promoción del Bienestar Animal:** Al rescatar perros de situaciones de abandono o maltrato y proporcionarles un hogar temporal saludable, estos proyectos desempeñan un papel crucial en la mejora del bienestar animal. | **·Alta Tasa de Devolución:** Los perros a veces son devueltos después de la adopción debido a expectativas poco realistas, problemas de comportamiento no reconocidos o cambios en las circunstancias del adoptante. **·Dificultades en la Gestión:** Una gestión ineficaz puede llevar a problemas operativos, falta de seguimiento de los casos de adopción, y dificultades en la coordinación entre voluntarios y personal. **·Limitaciones en la Adopción:** Restricciones geográficas, procesos de adopción complicados o requisitos estrictos pueden limitar el número de adopciones exitosas.| **Inspiración:** Encontramos la inspiración de estas paginas por el espíritu de adopción que promueven. Tienen una estética divertida y tierna la cual intentamos implementar en nuestra página.https://www.casaheim.org/  https://www.pedigreeadoptame.mx/ -https://www.petco.com.mx/adopcion https://buscafuska.com/gad_source=1&gclid=Cj0KCQjw_qexBhCoARIsAFgBlevvD8kPOvXcHmSr4b0T7Yd1mWSq8NbP_mhnVM_YwEf27gmPy6saAvf9EALw_wcB |
 
+
+ 
 
 
 
