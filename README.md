@@ -1,4 +1,4 @@
-<code style="color : aquamarine"> # *Encuentratuhuellita.com* </code>
+# <code style="color : blue">Encuentratuhuellita.com</code>
 
 <img width="200" alt="Captura de Pantalla 2024-04-25 a la(s) 14 42 32" src="https://github.com/andyvillarrealg/WebAdopci-n/assets/159186356/7cd10c8a-7c07-4615-977d-bcb8d473a703">
 
