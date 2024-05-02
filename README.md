@@ -19,6 +19,7 @@ Situación Económica: Ingresos estables que les permitan cubrir gastos adiciona
 Educación: Es probable que tengan un nivel educativo medio a alto, dado que la educación suele correlacionarse con mayores ingresos.
 Estado Civil: Pueden ser solteros, casados o en convivencia. Los que tienen familia pueden estar más inclinados a adoptar una mascota como compañía para sus hijos.
 Residencia: Vivienda adecuada para mantener mascotas, probablemente en áreas suburbanas o urbanas con acceso a parques y áreas de paseo.
+Fuente: https://www.inegi.org.mx/programas/ccpv/2020/
 
 - **Consumo Mediático**
 Redes Sociales: Utilizan activamente plataformas como Facebook, Instagram y Twitter donde pueden seguir cuentas relacionadas con el cuidado de mascotas, adopción y salud animal.
@@ -45,10 +46,12 @@ Internet y Búsqueda de Información: Buscan información sobre cuidados, entren
 
 | Fortalezas | Debilidades | Proyectos similares |
 |------------|-------------|---------------------|
-|**·Reducción de la Eutanasia:** Al proporcionar una alternativa a la eutanasia para los perros sin hogar, los proyectos de adopción contribuyen significativamente a reducir el número de animales sacrificados. **·Concientización Comunitaria:** Los proyectos de adopción aumentan la conciencia sobre temas importantes como el trato humano a los animales, la sobrepoblación de mascotas, y la importancia de la esterilización y la castración. **·Promoción del Bienestar Animal:** Al rescatar perros de situaciones de abandono o maltrato y proporcionarles un hogar temporal saludable, estos proyectos desempeñan un papel crucial en la mejora del bienestar animal. | **·Alta Tasa de Devolución:** Los perros a veces son devueltos después de la adopción debido a expectativas poco realistas, problemas de comportamiento no reconocidos o cambios en las circunstancias del adoptante. **·Dificultades en la Gestión:** Una gestión ineficaz puede llevar a problemas operativos, falta de seguimiento de los casos de adopción, y dificultades en la coordinación entre voluntarios y personal. **·Limitaciones en la Adopción:** Restricciones geográficas, procesos de adopción complicados o requisitos estrictos pueden limitar el número de adopciones exitosas.| **Inspiración:** Encontramos la inspiración de estas paginas por el espíritu de adopción que promueven. Tienen una estética divertida y tierna la cual intentamos implementar en nuestra página.https://www.casaheim.org/  https://www.pedigreeadoptame.mx/ -https://www.petco.com.mx/adopcion https://buscafuska.com/gad_source=1&gclid=Cj0KCQjw_qexBhCoARIsAFgBlevvD8kPOvXcHmSr4b0T7Yd1mWSq8NbP_mhnVM_YwEf27gmPy6saAvf9EALw_wcB |
+|**·Concientización Comunitaria:** Los proyectos de adopción aumentan la conciencia sobre temas importantes como el trato humano a los animales, la sobrepoblación de mascotas, y la importancia de la esterilización y la castración. **·Promoción del Bienestar Animal:** Al rescatar perros de situaciones de abandono o maltrato y proporcionarles un hogar temporal saludable, estos proyectos desempeñan un papel crucial en la mejora del bienestar animal. **·Reducción de la Eutanasia:** Al proporcionar una alternativa a la eutanasia para los perros sin hogar, los proyectos de adopción contribuyen significativamente a reducir el número de animales sacrificados. | **·Alta Tasa de Devolución:** Los perros a veces son devueltos después de la adopción debido a expectativas poco realistas, problemas de comportamiento no reconocidos o cambios en las circunstancias del adoptante. **·Dificultades en la Gestión:** Una gestión ineficaz puede llevar a problemas operativos, falta de seguimiento de los casos de adopción, y dificultades en la coordinación entre voluntarios y personal. **·Limitaciones en la Adopción:** Restricciones geográficas, procesos de adopción complicados o requisitos estrictos pueden limitar el número de adopciones exitosas.| **Inspiración:** Encontramos la inspiración de estas paginas por el espíritu de adopción que promueven. Tienen una estética divertida y tierna la cual intentamos implementar en nuestra página.https://www.casaheim.org/  https://www.pedigreeadoptame.mx/ -https://www.petco.com.mx/adopcion https://buscafuska.com/gad_source=1&gclid=Cj0KCQjw_qexBhCoARIsAFgBlevvD8kPOvXcHmSr4b0T7Yd1mWSq8NbP_mhnVM_YwEf27gmPy6saAvf9EALw_wcB |
 
 
  
+### Extras
+
 
 
 
