@@ -32,7 +32,7 @@ Internet y Búsqueda de Información: Buscan información sobre cuidados, entren
 |-----------------------|-------------------|-------------|-------|
 |**Definir la visión y los objetivos del proyecto:** Establecer metas claras y específicas para el  lanzamiento inicial. **Github:** https://github.com/ximeglz|**Desarrollar la identidad de marca:** Crear el nombre, logo y línea gráfica de la página.**Github:** https://github.com/pabsg22|**Analizar el mercado objetivo:** Investigar el mercado de adopción de mascotas y las necesidades de los usuarios potenciales. **Github:** https://github.com/andyvillarrealg|**Desarrollo del sitio web:** Configurar el hosting, seleccionar y personalizar la plantilla o desarrollar el diseño desde cero.**Github:** https://github.com/Gat021|
 
-###Concepto Visual
+### Concepto Visual
 
 <img width="492" alt="Captura de Pantalla 2024-04-25 a la(s) 14 27 43" src="https://github.com/andyvillarrealg/WebAdopci-n/assets/159186356/2c3c92f8-67be-4b4c-a977-ff4d8a6e7781">
 
